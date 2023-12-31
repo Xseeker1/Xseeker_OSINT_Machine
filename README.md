@@ -36,10 +36,10 @@ Camphish:      https://github.com/baradatipu/CamPhish<br>
 Maxphisher:   https://github.com/KasRoudra/MaxPhisher<br>
 Zphisher:        https://github.com/htr-tech/zphisher<br>
 
-Please find the path and screenshot for reference:
+Please find the path and screenshot for reference:<br>
 
 ![image](https://github.com/Xseeker1/X-seeker-OSINT-Machine/assets/155298424/d1beda20-e3fb-41a3-8c93-62b6f2573f8e)
-
+<br>
  
 **Social Engineering:**<br>
 Daprofiler:  https://github.com/dalunacrobate/DaProfiler<br>
@@ -52,18 +52,18 @@ Sherlock<br>
 X-osint<br>
 
 Please find the path and screenshot for reference:
- 
+ <br>
 ![image](https://github.com/Xseeker1/X-seeker-OSINT-Machine/assets/155298424/04a7f8fe-ab26-4dfd-984b-738859b74e5a)
-
+<br>
 
 **Website Copier:**<br>  
 Httrack<br>
 
 Please find the path and screenshot for reference:
-
+<br>
  ![image](https://github.com/Xseeker1/X-seeker-OSINT-Machine/assets/155298424/8b95b36b-5c12-4f87-b27c-0087257f47a8)
 
-
+<br>
 **Website Scanning:**<br>
 Nuclei: https://github.com/projectdiscovery/nuclei<br>
 Red Hawk:  https://github.com/Tuhinshubhra/RED_HAWK<br>
