@@ -31,7 +31,7 @@ Empower yourself with the capabilities of our OSINT search engine, and embark on
 
 Please find their GitHub Repository links mentioned beside their names as well for your reference as well
 
-Phishing:<br>
+**Phishing:**<br>
 Camphish:      https://github.com/baradatipu/CamPhish<br>
 Maxphisher:   https://github.com/KasRoudra/MaxPhisher<br>
 Zphisher:        https://github.com/htr-tech/zphisher<br>
@@ -41,7 +41,7 @@ Please find the path and screenshot for reference:
 ![image](https://github.com/Xseeker1/X-seeker-OSINT-Machine/assets/155298424/d1beda20-e3fb-41a3-8c93-62b6f2573f8e)
 
  
-Social Engineering:<br>
+**Social Engineering:**<br>
 Daprofiler:  https://github.com/dalunacrobate/DaProfiler<br>
 email2phonenumber:   https://github.com/martinvigo/email2phonenumber<br>
 GoMapEnum:    https://github.com/nodauf/GoMapEnum<br>
@@ -64,7 +64,7 @@ Please find the path and screenshot for reference:
  ![image](https://github.com/Xseeker1/X-seeker-OSINT-Machine/assets/155298424/8b95b36b-5c12-4f87-b27c-0087257f47a8)
 
 
-Website Scanning:<br>
+**Website Scanning:**<br>
 Nuclei: https://github.com/projectdiscovery/nuclei<br>
 Red Hawk:  https://github.com/Tuhinshubhra/RED_HAWK<br>
 Sublist3r: https://github.com/aboul3la/Sublist3r<br>
