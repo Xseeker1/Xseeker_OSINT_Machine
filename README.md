@@ -56,7 +56,7 @@ Please find the path and screenshot for reference:
 ![image](https://github.com/Xseeker1/X-seeker-OSINT-Machine/assets/155298424/04a7f8fe-ab26-4dfd-984b-738859b74e5a)
 
 
-Website Copier:<br>
+**Website Copier:**<br>  
 Httrack<br>
 
 Please find the path and screenshot for reference:
