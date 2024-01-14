@@ -199,6 +199,8 @@ IP Search
 
 OSINT (Open Source Intelligence) tools and techniques that can be used for IP address investigation.
 
+<br>
 
+**Remember to respect privacy laws and terms of service when conducting OSINT. Always verify the credibility of sources and cross-reference information from multiple sources for accuracy. Additionally, be aware that the availability and effectiveness of these tools can change over time, so it's crucial to stay informed about updates and new developments in the field of OSINT**.
 
 
