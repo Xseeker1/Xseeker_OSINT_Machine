@@ -71,8 +71,9 @@ Sublist3r: https://github.com/aboul3la/Sublist3r<br>
 Sudomy: https://github.com/screetsec/Sudomy<br>
 URLextractor: https://github.com/eschultze/URLextractor<br>
 
-<br>
-![image](https://github.com/Xseeker1/Xseeker_OSINT_Machine/assets/155298424/2d4b8a84-2e18-4c3f-966a-ad4edd67e482)
+
+![image](https://github.com/Xseeker1/Xseeker_OSINT_Machine/assets/155298424/e6a6733a-7b98-4064-94dd-b608ad9c47d8)
+
 <br>
 
 These are the list of bookmarks that have been configured in the browser. Please find the screenshot attached for reference
